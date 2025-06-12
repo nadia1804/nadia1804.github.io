@@ -3,7 +3,7 @@
     <title>deddme.id</title>
     <link href="https://deddme.id/feed.xml" rel="self" />
     <link href="https://deddme.id" />
-    <updated>2025-06-07T14:56:49+08:00</updated>
+    <updated>2025-06-12T14:11:04+08:00</updated>
     <author>
         <name>Deddy Hidayat</name>
     </author>
@@ -74,122 +74,120 @@
             <summary>
                 <![CDATA[
                         <img src="https://deddme.id/media/posts/6/deddme.id-featured-image-kalender-libur-nasional-dan-cuti-bersama-2025.png" alt=" hari libur dan cuti bersama tahun 2025 " />
-                    Download sumber : SKB 3 Mentri klik disini
+                    Download sumber: SKB 3 Mentri klik disini
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://deddme.id/media/posts/6/deddme.id-featured-image-kalender-libur-nasional-dan-cuti-bersama-2025.png" class="type:primaryImage" alt=" hari libur dan cuti bersama tahun 2025 " /></p>
-                <p> </p>
-<!-- Kotak pencarian -->
-<p><input id="searchInput" type="text" placeholder="Cari hari libur..."></p>
-<!-- Tabel dengan pembungkus responsif -->
-<div class="table-responsive">
-<table>
+                <!-- Kotak pencarian -->
+<p><input id="searchInput" style="width: 100%; padding: 10px; font-size: 16px; border: 1px solid #ccc; border-radius: 4px;" type="text" placeholder="Cari hari libur..."></p>
+<!-- Container tabel responsif -->
+<div style="overflow-x: auto; max-width: 100%; margin-top: 20px;">
+<table style="width: 100%; border-collapse: collapse;">
 <thead>
-<tr>
-<th>NO.</th>
-<th>TANGGAL</th>
-<th>HARI</th>
-<th>KETERANGAN</th>
+<tr style="background-color: #f4f4f4;">
+<th style="padding: 10px; border: 1px solid #ddd; text-align: left;">NO.</th>
+<th style="padding: 10px; border: 1px solid #ddd; text-align: left;">TANGGAL</th>
+<th style="padding: 10px; border: 1px solid #ddd; text-align: left;">HARI</th>
+<th style="padding: 10px; border: 1px solid #ddd; text-align: left;">KETERANGAN</th>
 </tr>
 </thead>
 <tbody id="tableBody">
 <tr>
-<td>1</td>
-<td>1 Januari 2025</td>
-<td>Rabu</td>
-<td>Tahun Baru 2025 Masehi</td>
+<td style="padding: 10px; border: 1px solid #ddd;">1</td>
+<td style="padding: 10px; border: 1px solid #ddd;">1 Januari 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Rabu</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Tahun Baru 2025 Masehi</td>
 </tr>
 <tr>
-<td>2</td>
-<td>27 Januari 2025</td>
-<td>Senin</td>
-<td>Isra Mikraj Nabi Muhammad S.A.W.</td>
+<td style="padding: 10px; border: 1px solid #ddd;">2</td>
+<td style="padding: 10px; border: 1px solid #ddd;">27 Januari 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Senin</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Isra Mikraj Nabi Muhammad S.A.W.</td>
 </tr>
 <tr>
-<td>3</td>
-<td>29 Januari 2025</td>
-<td>Rabu</td>
-<td>Tahun Baru Imlek 2576 Kongzili</td>
+<td style="padding: 10px; border: 1px solid #ddd;">3</td>
+<td style="padding: 10px; border: 1px solid #ddd;">29 Januari 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Rabu</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Tahun Baru Imlek 2576 Kongzili</td>
 </tr>
 <tr>
-<td>4</td>
-<td>29 Maret 2025</td>
-<td>Sabtu</td>
-<td>Hari Suci Nyepi (Tahun Baru Saka 1947)</td>
+<td style="padding: 10px; border: 1px solid #ddd;">4</td>
+<td style="padding: 10px; border: 1px solid #ddd;">29 Maret 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Sabtu</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Hari Suci Nyepi (Tahun Baru Saka 1947)</td>
 </tr>
 <tr>
-<td>5</td>
-<td>31 Maret-1 April 2025</td>
-<td>Senin-Selasa</td>
-<td>Idul Fitri 1446 Hijriah</td>
+<td style="padding: 10px; border: 1px solid #ddd;">5</td>
+<td style="padding: 10px; border: 1px solid #ddd;">31 Maret-1 April 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Senin-Selasa</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Idul Fitri 1446 Hijriah</td>
 </tr>
 <tr>
-<td>6</td>
-<td>2 April 2025</td>
-<td>Rabu</td>
-<td>Cuti Bersama Idul Fitri 1446 Hijriah</td>
+<td style="padding: 10px; border: 1px solid #ddd;">6</td>
+<td style="padding: 10px; border: 1px solid #ddd;">2 April 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Rabu</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Cuti Bersama Idul Fitri 1446 Hijriah</td>
 </tr>
 <tr>
-<td>7</td>
-<td>18 April 2025</td>
-<td>Jumat</td>
-<td>Wafat Yesus Kristus</td>
+<td style="padding: 10px; border: 1px solid #ddd;">7</td>
+<td style="padding: 10px; border: 1px solid #ddd;">18 April 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Jumat</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Wafat Yesus Kristus</td>
 </tr>
 <tr>
-<td>8</td>
-<td>20 April 2025</td>
-<td>Minggu</td>
-<td>Kebangkitan Yesus Kristus (Paskah)</td>
+<td style="padding: 10px; border: 1px solid #ddd;">8</td>
+<td style="padding: 10px; border: 1px solid #ddd;">20 April 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Minggu</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Kebangkitan Yesus Kristus (Paskah)</td>
 </tr>
 <tr>
-<td>9</td>
-<td>1 Mei 2025</td>
-<td>Kamis</td>
-<td>Hari Buruh Internasional</td>
+<td style="padding: 10px; border: 1px solid #ddd;">9</td>
+<td style="padding: 10px; border: 1px solid #ddd;">1 Mei 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Kamis</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Hari Buruh Internasional</td>
 </tr>
 <tr>
-<td>10</td>
-<td>12 Mei 2025</td>
-<td>Senin</td>
-<td>Hari Raya Waisak 2569 BE</td>
+<td style="padding: 10px; border: 1px solid #ddd;">10</td>
+<td style="padding: 10px; border: 1px solid #ddd;">12 Mei 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Senin</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Hari Raya Waisak 2569 BE</td>
 </tr>
 <tr>
-<td>11</td>
-<td>29 Mei 2025</td>
-<td>Kamis</td>
-<td>Kenaikan Yesus Kristus</td>
+<td style="padding: 10px; border: 1px solid #ddd;">11</td>
+<td style="padding: 10px; border: 1px solid #ddd;">29 Mei 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Kamis</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Kenaikan Yesus Kristus</td>
 </tr>
 <tr>
-<td>12</td>
-<td>30 Mei 2025</td>
-<td>Jumat</td>
-<td>Cuti Bersama Kenaikan Yesus Kristus</td>
+<td style="padding: 10px; border: 1px solid #ddd;">12</td>
+<td style="padding: 10px; border: 1px solid #ddd;">30 Mei 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Jumat</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Cuti Bersama Kenaikan Yesus Kristus</td>
 </tr>
 <tr>
-<td>13</td>
-<td>1 Juni 2025</td>
-<td>Minggu</td>
-<td>Hari Lahir Pancasila</td>
+<td style="padding: 10px; border: 1px solid #ddd;">13</td>
+<td style="padding: 10px; border: 1px solid #ddd;">1 Juni 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Minggu</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Hari Lahir Pancasila</td>
 </tr>
 <tr>
-<td>14</td>
-<td>6 Juni 2025</td>
-<td>Jumat</td>
-<td>Idul Adha 1446 Hijriah</td>
+<td style="padding: 10px; border: 1px solid #ddd;">14</td>
+<td style="padding: 10px; border: 1px solid #ddd;">6 Juni 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Jumat</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Idul Adha 1446 Hijriah</td>
 </tr>
 <tr>
-<td>15</td>
-<td>27 Juni 2025</td>
-<td>Jumat</td>
-<td>1 Muharam Tahun Baru Islam 1447 Hijriah</td>
+<td style="padding: 10px; border: 1px solid #ddd;">15</td>
+<td style="padding: 10px; border: 1px solid #ddd;">27 Juni 2025</td>
+<td style="padding: 10px; border: 1px solid #ddd;">Jumat</td>
+<td style="padding: 10px; border: 1px solid #ddd;">1 Muharam Tahun Baru Islam 1447 Hijriah</td>
 </tr>
 </tbody>
 </table>
 </div>
-<p>Download sumber : SKB 3 Mentri <a href="#INTERNAL_LINK#/null/undefined" title="https://www.dropbox.com/scl/fi/lt4y616qrlvo23x4zy1bj/SKB-3-Menteri-Libur-Nasional-dan-Cuti-Bersama-Tahun-2025.pdf?rlkey=6p5bwq3dk39vz2g5ovwzhjojf&amp;st=34xs3rbf&amp;dl=1" target="_blank" rel="noopener noreferrer">klik disini</a></p>
-<p>
+<p style="margin-top: 20px;">Download sumber: SKB 3 Mentri <a href="https://www.dropbox.com/scl/fi/lt4y616qrlvo23x4zy1bj/SKB-3-Menteri-Libur-Nasional-dan-Cuti-Bersama-Tahun-2025.pdf?rlkey=6p5bwq3dk39vz2g5ovwzhjojf&amp;st=34xs3rbf&amp;dl=1"  target="_blank"  style="color: #0066cc; text-decoration: none;" class="extlink extlink-icon-11" title="Download SKB 3 Mentri" rel="noopener noreferrer">klik disini</a></p>
 <script>
     document.getElementById("searchInput").addEventListener("keyup", function() {
       var filter = this.value.toLowerCase();
@@ -201,7 +199,6 @@
       }
     });
   </script>
-</p>
             ]]>
         </content>
     </entry>
